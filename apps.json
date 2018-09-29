@@ -4,6 +4,11 @@
     "homepage": "https://steemit.com",
     "url_scheme": "https://steemit.com/{category}/@{username}/{permlink}"
   },
+  "weyoume": {
+    "name": "weyoume",
+    "homepage": "https://alpha.weyoume.io",
+    "url_scheme": "https://alpha.weyoume.io/@{username}/{permlink}"
+  },
   "appics": {
     "name": "APPICS",
     "homepage": "https://appics.com"
