@@ -2,7 +2,7 @@
 
 An Open JSON Standard for Trusted Workflows
 
-### Account json_metadata
+### Account json
 
 ```json
 {
@@ -35,7 +35,7 @@ An Open JSON Standard for Trusted Workflows
 - `website`: valid `https://` URL with max. length 100 chars.
 - `profile_image`: image URL, preferably square-cropped with a minimum size of 230 x 230 pixels.
 
-### Comment json_metadata
+### Comment json
 
 ```json
 {
